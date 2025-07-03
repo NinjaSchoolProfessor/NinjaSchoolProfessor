@@ -242,7 +242,7 @@ Knowing the difference in holding periods isn't just about strategy - it affects
  - [Stock Investing for Dummies](https://www.amazon.com/Stock-Investing-Dummies-Paul-Mladjenovic/dp/1394254563/) - Search for the latest version
  - [Common Stocks and Uncommon Profits and Other Writings by Philip A. Fisher](https://www.amazon.com/Common-Stocks-Uncommon-Profits-Writings/dp/0471445509) - (Dated, but the principales still apply)
  - [One up on Wall Street by Peter Lynch](https://www.amazon.com/One-Up-On-Wall-Street-audiobook/dp/B0000547CO) - (Dated, but the principales still apply)
- - [The Psychology of Money by Morgan Housel](ttps://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681)
+ - [The Psychology of Money by Morgan Housel](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681)
 
 ---
 ## YouTube
