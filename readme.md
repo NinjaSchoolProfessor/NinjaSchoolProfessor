@@ -246,7 +246,8 @@ Knowing the difference in holding periods isn't just about strategy - it affects
 
 ---
 ## YouTube
-YouTube investing channels
+YouTube / Podcasts for investing
+- [All In](https://www.youtube.com/@allin)
 - [Yahoo Finance](https://www.youtube.com/@YahooFinance)
 - [CNBC](https://www.youtube.com/@CNBC)
 - [Nathan Winklepleck, CFA](https://www.youtube.com/@NathanWinklepleckCFA/videos)
