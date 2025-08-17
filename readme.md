@@ -82,7 +82,7 @@ Understanding these basics will make you a smarter investor.
 | **SEC 8-K Filing** | A report companies file to announce major events (e.g., earnings releases, leadership changes, mergers) | Gives timely insight into news that may significantly affect a company’s stock price |
 | **Golden Cross** | Chart pattern when the short term moving average (MA) (e.g. 50-day) crosses **above** the long-term MA (e.g. 200 day) | This indicates a bullish breakout. |
 | **Death Cross** | Chart pattern when the short term moving average (MA) (e.g. 50-day) crosses **below** the long-term MA (e.g. 200 day) | This indicates a bearish breakout. |
-
+| **Multi-timeframe alignment strategy** | Using larger timeframes to define the market trend and smaller timeframes to fine-tune your trade entries, which is a sound approach but can be adjusted for better balance. |
 ---
 
 ### 🧠 Know Yourself: Behavioral Biases
