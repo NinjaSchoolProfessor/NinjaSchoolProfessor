@@ -82,7 +82,20 @@ Understanding these basics will make you a smarter investor.
 | **SEC 8-K Filing** | A report companies file to announce major events (e.g., earnings releases, leadership changes, mergers) | Gives timely insight into news that may significantly affect a company’s stock price |
 | **Golden Cross** | Chart pattern when the short term moving average (MA) (e.g. 50-day) crosses **above** the long-term MA (e.g. 200 day) | This indicates a bullish breakout. |
 | **Death Cross** | Chart pattern when the short term moving average (MA) (e.g. 50-day) crosses **below** the long-term MA (e.g. 200 day) | This indicates a bearish breakout. |
+
+| Term | Strategy Meaning |
+|------|-----------------|
+| **Support and resistance trading** | Buy near support, sell near resistance, assuming these levels will hold (or the opposite if you're trading short positions). |
+| **Swing trading** | Hold positions for several days to capture medium-term moves, often combining elements of trend and reversal trading. |
 | **Multi-timeframe alignment strategy** | Using larger timeframes to define the market trend and smaller timeframes to fine-tune your trade entries, which is a sound approach but can be adjusted for better balance. |
+| **Trend following** | Trade in the direction of the overall market trend, often using moving averages or trendlines as confirmation. |
+| **Breakout trading** | Enter when price breaks through support, resistance, or a consolidation range, expecting continuation in that direction. |
+| **Range / Mean reversion trading** | Buy near support and sell near resistance within a defined range, assuming prices will revert to the mean. |
+| **Mean reversion** | Assume prices will move back toward an average (like a moving average or Bollinger Band) after stretching too far. |
+| **Momentum trading** | Enter trades when price is moving strongly with high volume or volatility, aiming to ride the surge. |
+| **Pullback trading** | Wait for a temporary dip in an uptrend (or rally in a downtrend) before entering in the direction of the main trend. |
+| **Scalping** | Take very short-term trades, seeking small profits on quick moves, repeated many times throughout the day. |
+
 ---
 
 ### 🧠 Know Yourself: Behavioral Biases
