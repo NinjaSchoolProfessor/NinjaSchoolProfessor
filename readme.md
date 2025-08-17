@@ -100,12 +100,25 @@ Understanding these basics will make you a smarter investor.
 
 ### 🧠 Know Yourself: Behavioral Biases
 
-| Bias | What It Is | Why It Matters |
-|------|------------|----------------|
-| **Loss Aversion** | Hating losses more than enjoying gains | Can cause you to hold losers or sell winners too early |
-| **Confirmation Bias** | Only paying attention to info that supports your view | Leads to poor research and blind spots |
-| **Recency Bias** | Believing recent trends will continue forever | Causes poor timing decisions |
-| **Overconfidence** | Thinking you’re better at this than you are | Often leads to risk-taking and avoidable losses |
+| Bias | What It Is | Why It Matters | Who It Affects Most |
+|------|------------|----------------|----------------------|
+| **Loss Aversion** | Hating losses more than enjoying gains | Can cause you to hold losers or sell winners too early | Both (universal human bias) |
+| **Recency Bias** | Believing recent trends will continue forever | Causes poor timing decisions | Beginners (less long-term perspective) |
+| **Herd Mentality** | Following what others are doing without analysis | Can lead to bubbles, crashes, or chasing trades | Beginners (relying on others’ signals) |
+| **Confirmation Bias** | Only paying attention to info that supports your view | Leads to poor research and blind spots | Both, but stronger in beginners |
+| **Anchoring** | Fixating on a reference point (like an entry price) | Makes it hard to cut losses or reassess objectively | Both, but especially beginners |
+| **Disposition Effect** | Selling winners too early and holding losers too long | Hurts long-term portfolio growth | Beginners |
+| **Gambler’s Fallacy** | Believing past outcomes change future odds | Leads to false expectations about “due” moves | Beginners |
+| **Sunk Cost Fallacy** | Sticking with a bad trade because you’ve already invested | Increases losses by refusing to exit | Both, but especially beginners |
+| **Availability Bias** | Overweighting recent news or memorable events | Skews judgment away from statistical reality | Beginners |
+| **Regret Aversion** | Avoiding action to avoid being wrong | Leads to missed opportunities and paralysis | Beginners |
+| **Endowment Effect** | Overvaluing what you already own | Prevents rational selling or rebalancing | Both, often long-term investors |
+| **Overconfidence** | Thinking you’re better at this than you are | Often leads to risk-taking and avoidable losses | Experienced traders (after success streaks) |
+| **Self-Attribution Bias** | Taking credit for wins but blaming luck for losses | Blocks honest self-assessment and improvement | Experienced traders |
+| **Illusion of Control** | Believing you can predict or control randomness | Leads to overtrading and oversized positions | Both |
+| **Survivorship Bias** | Focusing only on winners and ignoring failures | Creates unrealistic expectations about success rates | Both |
+| **Status Quo Bias** | Preferring to do nothing even when change is needed | Keeps portfolios misaligned with reality | Long-term investors |
+| **Framing Effect** | Decisions change based on how info is presented | Risky choices may look safer (or vice versa) | Both |
 
 **Tip:** Keep a journal of your decisions and learn from the outcomes.
 
