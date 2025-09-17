@@ -313,5 +313,6 @@ Total Returns
 - [Flowalgo](https://flowalgo.com/) - Paid only
 - [Trade Alerts by CBOE](https://www.cboe.com/services/analytics/tradealert/individuals/) - Paid only
 
-## MarketPulse GPT prompt - Use GPT o4-mini or o3 for best results
-- [MarketPulse GPT]([https://](https://chatgpt.com/g/g-6861d41a707c819180f4e1ce8f2c37c3-marketpulse-gpt)
+## LLM / Gen AI prompts
+- (MarketPulse GPT](https://chatgpt.com/g/g-689b7c5f90888191b6c4dbbe64569ce9-marketpulse-gpt) Run this prompt **BEFORE** asking stock related questions if you want the LLM to consider the current micro and macro trends.
+- 
