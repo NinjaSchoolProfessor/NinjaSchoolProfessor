@@ -313,6 +313,7 @@ Total Returns
 - [Options Play](https://www.optionsplay.com/) - Paid only
 - [Flowalgo](https://flowalgo.com/) - Paid only
 - [Trade Alerts by CBOE](https://www.cboe.com/services/analytics/tradealert/individuals/) - Paid only
+- [OptionAlpha](https://optionalpha.com/handbook) - Free learning, paid tool. Some brokerages offer free use of the platform.
 
 ## LLM / Gen AI prompts
 - [MarketPulse GPT](https://chatgpt.com/g/g-689b7c5f90888191b6c4dbbe64569ce9-marketpulse-gpt) Click the "MarketPulse" button to run the GPT **BEFORE** asking stock related questions if you want the LLM to consider the current micro and macro trends.
