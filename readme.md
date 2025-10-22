@@ -273,7 +273,7 @@ Knowing the difference in holding periods isn't just about strategy - it affects
 | [**Market Chameleon**](https://marketchameleon.com/)       | ❌     | ✔️       | ✔️       | ❌      | ✔️       |    Both     | Sceener mostly used for Options. Lots of great features for free users. |
 | [**Portfolio123**](https://www.portfolio123.com/)          | ❌     | ✔️       | ✔️       | ❌      | ✔️       |    Paid     | Sceener mostly used for Options. Lots of great features for free users. [How to use P123](https://www.youtube.com/watch?v=e4u6Ow6RWEI&list=PL8GOLcNpi-Fs1xtccsV7dRoqzNBby0Lbx) |
 | [**Stock Analysis**](https://stockanalysis.com/trending/)  | ✔️     | ✔️       | ❌       | ❌      | ✔️       |    Both     | Sceener / ETF holdings viewer / dividend data / news. |
-
+| [**TradeZella**](https://www.tradezella.com/)              | ❌     | ❌       | ❌       | ❌      | ❌       |    Paid     | Tracks your trading perfromance for various brokerages that offer API access. |
 ---
 
 ## Books
