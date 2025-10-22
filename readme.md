@@ -248,6 +248,12 @@ Knowing the difference in holding periods isn't just about strategy - it affects
 
 **Think of indicators as your dashboard while driving through the market. Using any one indicator alone will often result in false positives. For the best probabilistic results, traders should factor in multiple indicators and pair it with economic news.**
 
+
+---
+
+## ThinkorSwim useful tools
+ - [Trendline-touch alerts](https://toslc.thinkorswim.com/center/howToTos/thinkManual/charts/Useful-Tools/Drawing-Alerts)
+
 ---
 
 ## ⚠️ Avoid Common Mistakes
