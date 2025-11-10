@@ -285,7 +285,7 @@ Knowing the difference in holding periods isn't just about strategy - it affects
 
 ## Following President Trump's social media posts
 The following is great for keeping up with Trump Always Chicken's Out (TACO) posts on the Truth Social platform. (While I'm not a fan of his idiocracy, it's hard to deny the gains you can make from day trading from his posts.)
-[https://www.trumpstruth.org/](https://www.trumpstruth.org/)
+ - [https://www.trumpstruth.org/](https://www.trumpstruth.org/)
 
 ---
 
