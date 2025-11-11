@@ -291,6 +291,7 @@ The following is great for keeping up with Trump Always Chicken's Out (TACO) pos
 
 ## Free Trading Videos
 - [Tori Trades](https://www.tradezella.com/playbooks/trendline-strategy)
+- [Tasty Trade - How To Trade Options in 2 Hours 12 Minutes and 4 Seconds](https://www.youtube.com/watch?v=441HWKDot0Y)
 
 
 ## Books
