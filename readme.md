@@ -280,7 +280,7 @@ Knowing the difference in holding periods isn't just about strategy - it affects
 | [**Portfolio123**](https://www.portfolio123.com/)          | ❌     | ✔️       | ✔️       | ❌      | ✔️       |    Paid     | Sceener mostly used for Options. Lots of great features for free users. [How to use P123](https://www.youtube.com/watch?v=e4u6Ow6RWEI&list=PL8GOLcNpi-Fs1xtccsV7dRoqzNBby0Lbx) |
 | [**Stock Analysis**](https://stockanalysis.com/trending/)  | ✔️     | ✔️       | ❌       | ❌      | ✔️       |    Both     | Sceener / ETF holdings viewer / dividend data / news. |
 | [**TradeZella**](https://www.tradezella.com/)              | ❌     | ❌       | ❌       | ❌      | ❌       |    Paid     | Trading journal that helps you track and measure trading perfromance for various brokerages that offer API access. |
-
+| [**Google Finance**](https://www.google.com/finance/beta/) | ✔️     | ✔️       | ❌       | ❌      | ❌       |    Free     | Google Finance AI infused (beta)  |
 ---
 
 ## Following President Trump's social media posts
