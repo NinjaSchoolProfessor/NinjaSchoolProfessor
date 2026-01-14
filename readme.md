@@ -311,7 +311,9 @@ YouTube / Podcasts for investing
 YouTube options focused channels
   - [Tasy Trade - TastyLive](https://www.youtube.com/@tastyliveshow/videos)
   - [Theta Profits](https://www.youtube.com/@ThetaProfits)
-    
+
+YouTube learning
+  - [How I Use LEAPS Call Options To Retire Early (Full Masterclass) | Options With Ryan](https://www.youtube.com/watch?v=vZgrQgk4IlI)
 ---
 
 Total Returns
