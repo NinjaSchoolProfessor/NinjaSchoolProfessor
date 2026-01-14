@@ -314,6 +314,8 @@ YouTube options focused channels
 
 YouTube learning
   - [How I Use LEAPS Call Options To Retire Early (Full Masterclass) | Options With Ryan](https://www.youtube.com/watch?v=vZgrQgk4IlI)
+  - [Tori Trades - How To Trade TRENDLINES (Full Guide)](https://www.youtube.com/watch?v=Y8efWZ2M1y8)
+  
 ---
 
 Total Returns
