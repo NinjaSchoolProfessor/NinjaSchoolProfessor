@@ -289,6 +289,9 @@ The following is great for keeping up with Trump Always Chicken's Out (TACO) pos
 
 ---
 
+## OSINT 
+- [Finance - Worldmonitor.app](https://finance.worldmonitor.app/)
+
 ## Free Trading Videos
 - [Tori Trades](https://www.tradezella.com/playbooks/trendline-strategy)
 - [Tasty Trade - How To Trade Options in 2 Hours 12 Minutes and 4 Seconds](https://www.youtube.com/watch?v=441HWKDot0Y)
@@ -304,6 +307,7 @@ The following is great for keeping up with Trump Always Chicken's Out (TACO) pos
 ## YouTube
 YouTube / Podcasts for investing
 - [Yahoo Finance](https://www.youtube.com/@YahooFinance)
+- [Bloomberg Business News Live](https://www.youtube.com/@markets/streams)
 - [CNBC](https://www.youtube.com/@CNBC)
 - [Creative Planning](https://www.youtube.com/@creativeplanning)
 - [Nathan Winklepleck, CFA](https://www.youtube.com/@NathanWinklepleckCFA/videos)
