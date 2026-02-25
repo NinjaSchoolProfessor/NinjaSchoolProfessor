@@ -303,11 +303,11 @@ The following is great for keeping up with Trump Always Chicken's Out (TACO) pos
 ---
 ## YouTube
 YouTube / Podcasts for investing
-- [All In](https://www.youtube.com/@allin)
 - [Yahoo Finance](https://www.youtube.com/@YahooFinance)
 - [CNBC](https://www.youtube.com/@CNBC)
+- [Creative Planning](https://www.youtube.com/@creativeplanning)
 - [Nathan Winklepleck, CFA](https://www.youtube.com/@NathanWinklepleckCFA/videos)
-  
+- [All In - Somewhat finance related but more macro level](https://www.youtube.com/@allin)  
 YouTube options focused channels
   - [Tasy Trade - TastyLive](https://www.youtube.com/@tastyliveshow/videos)
   - [Theta Profits](https://www.youtube.com/@ThetaProfits)
