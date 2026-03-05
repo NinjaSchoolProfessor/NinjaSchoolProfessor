@@ -11,7 +11,7 @@
 - Start at the top and work your way down.
 - Keep learning over time - investing is a lifelong skill.
 - Use tools like ChatGPT to ask questions, but always double-check with reliable sources.
-- If you prefer AI level interactions related to this try the [Beginner Investor prompt](https://github.com/NinjaSchoolProfessor/Beginner-investor/blob/main/README.md)
+- If you prefer to ask AI questions give the [Beginner Investor prompt](https://github.com/NinjaSchoolProfessor/Beginner-investor/blob/main/README.md) a try.
 
 This guide is meant to help you move beyond default retirement plans (like target date funds) and make more confident investing choices on your own.
 
